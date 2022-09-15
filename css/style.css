@@ -110,7 +110,7 @@ body{
     padding: 35px 25px;
 }
 .card i{
-    color: red;
+    color: #282C85;
     font-size: 44px;
     transition: 0.5s;
 }
